@@ -3,4 +3,12 @@ My personal configuration files for linux or unix systems
 
 ## Instructions
 
-In order to install these files, copy them to the correct locations (usually the home direcotry) and then restart your session.  This should work...
+### First Steps
+* click the **Clone or Download** button
+* Click **Download ZIP** *(the files should begin to download to your **Downloads** folder)*
+* Navigate to the **Downloads** folder
+* Right-click the file and select either **Extract Here** or **Open with Archive Manager** *(this may be differnt on different versions of Linux)*
+* Copy the **.vimrc** file into your **Home** directory
+* Start Vim and you should see some noticeable changes.  
+* Enjoy your new setup!!
+
